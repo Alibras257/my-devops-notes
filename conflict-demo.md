@@ -1,1 +1,1 @@
-Git is useful for tracking code changes.
+Git helps teams collaborate safely.
