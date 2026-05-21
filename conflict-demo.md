@@ -1,1 +1,1 @@
-Git is useful for version control.
+Git is useful for version control and teamwork.
