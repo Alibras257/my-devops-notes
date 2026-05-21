@@ -1,1 +1,1 @@
-Git helps teams collaborate safely.
+Git helps teams collaborate safely and track source code history.
